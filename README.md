@@ -1,6 +1,6 @@
 # Office365 Email Validator
 
-![Office365 Email Validator]()
+![Office365 Email Validator](https://raw.githubusercontent.com/alexrony21/office365-email-validator/refs/heads/main/office365-email-checker.png)
 
 ## 🚀 Features
 
