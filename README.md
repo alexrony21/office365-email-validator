@@ -1,24 +1,24 @@
 # Office365 Email Validator
 
-![Office365 Email Validator](https://raw.githubusercontent.com/alexrony21/Office365-Email-Validator/refs/heads/main/Office365_Email_Validator.png)
+![Office365 Email Validator]()
 
-## Features
+## 🚀 Features
 
-1. **Support Multithreading**: Faster verification with multithreading.
-2. **Auto Proxy**: Automatically handles proxy configurations.
-3. **Fast Checking**: Quickly checks emails in your list.
-4. **Accurate Results**: Ensures precise verification.
-5. *Random UserAgents*: Using random useragents to be more reliable
+1. Fast Checking  
+2. Accurate Results  
+3. HTTP Proxy Support  
+4. Advanced Mechanism for Checking Large Amounts  
+5. Unlimited Checking  
+6. 350+ CPM with Free Proxy  
 
+## 🤝 Get in Touch
 
-## Contact
+if you want to purchase,
 
-If you want to purchase this tool, 
-
-contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
 This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
 
----
-**Thank you!**
+Thanks
